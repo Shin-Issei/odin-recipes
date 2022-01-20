@@ -1,0 +1,12 @@
+
+#chef {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    
+}
+
+.primary {
+    white-space: pre-line;
+    color: red;
+}
