@@ -1,0 +1,29 @@
+*{
+    font-family:'Times New Roman', Times, serif;
+    
+    background-color: rgb(98, 14, 28);
+    color: rgb(160, 160, 160);
+    /* border:1px pink solid; */
+}
+
+img {
+    display: block;
+    margin:auto;
+}
+li, p{
+    font-size: 25px;
+    text-align: center;
+    list-style: none;
+    padding-top: 8px;
+    
+
+}
+
+h1{
+    text-align: center;
+    margin: auto;
+}
+
+a{
+    font-size: 35px;
+}

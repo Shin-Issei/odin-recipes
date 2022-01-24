@@ -22,14 +22,15 @@
     margin: auto;
 }
 
-.mainMenu * {
-    /* border-left: 2px rgb(160, 58, 255) solid;
-    border-bottom: 2px rgb(178, 111, 241) solid; */
+.mainMenu li{
+    padding-left: px;
+    border-left:5px rgb(160, 160, 160) solid;
 }
 
 a{
     color: rgb(160, 160, 160);
     font-weight: bolder;
     font-size: larger;
+    text-decoration: none;
 
 }
