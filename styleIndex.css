@@ -1,12 +1,35 @@
-
-#chef {
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
+*{
+    font-family:'Times New Roman', Times, serif;
+    background-color: rgb(98, 14, 28);
+    /* border:7px pink solid; */
     
 }
 
-.primary {
-    white-space: pre-line;
-    color: red;
+#chef {
+    display: block;
+    margin: auto;
+}
+
+.mainHeader{
+    text-align: center;
+    font-size: 50px;
+    
+}
+
+.mainMenu, .mainMenu * {
+    list-style-type: none;
+    display:flex;
+    margin: auto;
+}
+
+.mainMenu * {
+    /* border-left: 2px rgb(160, 58, 255) solid;
+    border-bottom: 2px rgb(178, 111, 241) solid; */
+}
+
+a{
+    color: rgb(160, 160, 160);
+    font-weight: bolder;
+    font-size: larger;
+
 }
